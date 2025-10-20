@@ -29,3 +29,8 @@ precedente, oppure al nodo destro se maggiore.
 Il file hash_table_simple.c contiene un esempio di hash table, mi piacerebbe che provaste a
 compilarlo e girarlo, cercando di capire cosa il codice fa. 
 
+## Ollama (Facoltativo, ne riparleremo più avanti)
+Se voleste usare l'intelligenza artificiale per aiutarvi con il coding, vi proporrei un'alternativa
+a ChatGPT o Gemini. Ollama ha supporto per Linux, Windows e MacOS. Vi permette di girare dei modelli
+LLM sia sulla vostra macchina in locale (se avete abbastanza RAM), oppure vi permette un certo numero
+di prompt giornalieri su un modello cloud che è possibile testare gratuitamente.
